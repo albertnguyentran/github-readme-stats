@@ -338,7 +338,7 @@ const renderNormalLayout = (langs, width, totalLanguageSize) => {
       });
     }),
     gap: 40,
-    direction: "column",
+    direction: "row",
   }).join("");
 };
 
