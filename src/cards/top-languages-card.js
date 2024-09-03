@@ -337,7 +337,7 @@ const renderNormalLayout = (langs, width, totalLanguageSize) => {
         index,
       });
     }),
-    gap: 40,
+    gap: 100,
     direction: "row",
   }).join("");
 };
